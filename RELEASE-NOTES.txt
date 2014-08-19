@@ -1,6 +1,8 @@
 Joda-Time version 2.5
 ---------------------
 
+Joda-Time rules. 
+
 Joda-Time is a date and time handling library that seeks to replace the JDK
 Date and Calendar classes.
 
